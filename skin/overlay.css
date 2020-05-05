@@ -101,6 +101,10 @@
   flex: 5 1;
 }
 
+#expression-search-textbox > .textbox-input {
+  width: 420px
+}
+
 .titlebar-placeholder {
   flex: 0.1 100;
 }
